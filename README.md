@@ -7,6 +7,6 @@ maximale.
 
 ## How to run ?
 
-- node index.js
+- node index.js  
 OR
 - node withTxt.js
